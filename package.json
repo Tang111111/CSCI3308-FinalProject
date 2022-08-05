@@ -14,7 +14,7 @@
         "email-validator": "^2.0.4",
         "express": "^4.6.1",
         "express-session": "^1.16.1",
-        "mongoose": "^5.5.2",
+        "mongoose": "^5.7.5",
         "passport": "^0.4.0",
         "passport-local": "^1.0.0",
         "pg-promise": "^8.5.1"
